@@ -17,8 +17,8 @@ To write character data into a file using the FileWriter class in Java.
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: PRIYADHARSHINI E
-RegisterNumber: 212223230159
+Developed by: AYISHA RINSI K
+RegisterNumber: 212223040022
 */
 ```
 
