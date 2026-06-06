@@ -21,8 +21,8 @@ To implement the Memento Design Pattern that allows saving and restoring version
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: PRIYADHARSHINI E
-RegisterNumber: 212223230159
+Developed by: AYISHA RINSI K
+RegisterNumber: 212223040022
 */
 ```
 
